@@ -1,5 +1,4 @@
-# astham-GLM
-GLM and non-parametric methods analysis for predicting best indicators for asthma hospitalization in the United States
+# GLM and non-parametric methods analysis for predicting best indicators for asthma hospitalization in the United States
 
 Notebooks completed in Jupyter Description: 
 
