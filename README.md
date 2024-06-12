@@ -2,8 +2,8 @@
 
 ## Research Question: What factors impact asthma hospitalizations most greatly in the United States? How can we predict asthma hospitalizations based on demographic (socioeconomic and racial) data and environmental data such as PM2.5 and ozone levels?
 
-### Language: Python
-### Libraries: Pandas, Statsmodels, Scikit-learn
+#### Language: Python
+#### Libraries: Pandas, Statsmodels, Scikit-learn
 
 ### Notebooks completed in Jupyter Description: 
 
